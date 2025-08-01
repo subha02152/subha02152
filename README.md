@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development using AI tools
 - 🌱 I’m currently learning typescript,supabase,python,AI tools. 
 - 💞️ I’m looking to freelance for website development.
-- 📫 How to reach me
+- 📫 How to reach me subaa0004@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
