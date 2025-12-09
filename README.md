@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @subha02152
-- 👀 I’m interested in web development using AI tools
-- 🌱 I’m currently learning typescript,supabase,python,AI tools. 
-- 💞️ I’m looking to freelance for website development.
+- 👀 I’m interested in web app development
+- 🌱 I’m currently learning typescript, Flutter. 
 - 📫 How to reach me subaa0004@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
